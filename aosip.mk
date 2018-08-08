@@ -23,3 +23,7 @@ PRODUCT_NAME := aosip_berkeley
 PRODUCT_DEVICE := berkeley
 PRODUCT_BRAND := Huawei
 PRODUCT_MODEL := Honor View 10
+
+# Maintainer
+PRODUCT_BUILD_PROP_OVERRIDES += \
+DEVICE_MAINTAINERS="Sri Harsha(srisurya95)"
